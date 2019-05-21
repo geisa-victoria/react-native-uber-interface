@@ -3,6 +3,9 @@
 .DS_Store
 
 # API KEYS
+.env
+
+# API KEYS
 android/app/src/main/AndroidManifest.xml
 src/components/Search/index.js
 
